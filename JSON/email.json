@@ -1,0 +1,30 @@
+{
+"emails": {
+"email": [
+{
+"to": "Vimal",
+"from": "Sam",
+"heading": "Hello",
+"body": "Hello brother, how are you!"
+},
+{
+"to": "Peter",
+"from": "Paul",
+"heading": "Birth day wish",
+"body": "Happy birthday Tom!"
+},
+{
+"to": "James",
+"from": "Jerome",
+"heading": "Morning walk",
+"body": "Please start morning walk to stay fit!"
+},
+{
+"to": "Krishna",
+"from": "Kumari",
+"heading": "Health Tips",
+"body": "Smoking is injurious to health!"
+}
+]
+}
+}
