@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: rgb(47, 33, 175);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -28,7 +29,7 @@ body {
 
 .label {
   position: relative;
-  background-color: #d0d0d0;
+  background-color: #efeef8;
   border-radius: 50px;
   cursor: pointer;
   display: inline-block;
